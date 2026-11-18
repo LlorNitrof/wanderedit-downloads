@@ -4,7 +4,7 @@ WanderEdit edits your travel videos on your own computer: captions, cuts, pop-up
 
 ## 1. Download
 
-Download **WanderEdit Setup** from our downloads page:
+Download **WanderEdit-Setup** (the `.exe`) from our downloads page:
 https://github.com/LlorNitrof/wanderedit-downloads/releases/latest
 
 Only download WanderEdit from this page.
@@ -17,14 +17,14 @@ Each download has a fingerprint next to it (the `.sha256` file). To check it:
 2. Type the line below, change the path to where you saved the file, and press Enter:
 
    ```
-   Get-FileHash "$HOME\Downloads\WanderEdit Setup 1.0.0.exe"
+   Get-FileHash "$HOME\Downloads\WanderEdit-Setup-1.0.0.exe"
    ```
 
 3. The long code it shows must match the code in the `.sha256` file exactly.
 
 ## 3. Install
 
-1. Double-click **WanderEdit Setup**.
+1. Double-click **WanderEdit-Setup**.
 2. Windows will probably say **"Windows protected your PC"**. This is expected: WanderEdit isn't signed with a paid certificate yet.
    - Click **More info**, then **Run anyway**.
    - **Only do this for WanderEdit downloaded from our page above.** For files from anywhere else, keep the warning's advice.
